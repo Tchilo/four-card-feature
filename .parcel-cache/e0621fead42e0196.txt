@@ -585,7 +585,7 @@
 106/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/htmlnano/docs/versioned_docs1660197235931220606 1
 124/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/css-revert-value.js1660197236079223080 0
 121/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/watcher/src/linux/InotifyBackend.cc1660197235291209896 0
-69/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist1660201626756585609 1
+69/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist1660233422742860016 1
 103/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/hash/package.json1660197234991204874 0
 95/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/anymatch/index.js1660197234859202661 0
 97/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/anymatch/index.d.ts1660197234991204874 0
@@ -1297,7 +1297,7 @@
 109/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/css-tree/lib/lexer/structure.js1660197236015222011 0
 114/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/webgpu.js1660197236339227421 0
 121/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/vector-effect.js1660197236335227355 0
-91/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/software.f6a437a0.svg1660200635398905736 0
+91/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/software.f6a437a0.svg1660231602881070105 0
 116/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/dom-serializer/lib/esm/foreignNames.js1660197234931203868 0
 130/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/getelementsbyclassname.js1660197236139224082 0
 101/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/watcher/LICENSE1660197234839202325 0
@@ -1466,7 +1466,7 @@
 106/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/source-map/README.md1660197235495213309 0
 93/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/postcss/LICENSE1660197234815201922 0
 99/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/node-releases/LICENSE1660197234819201989 0
-92/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/index.61d3354a.css.map1660201626756585609 0
+92/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/index.61d3354a.css.map1660232930736111183 0
 133/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/020-usage.md1660197235939220740 0
 118/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/binary-extensions/binary-extensions.json1660197234911203532 0
 105/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/htmlnano/lib/presets/max.js1660197235307210164 0
@@ -1716,7 +1716,7 @@
 110/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/picocolors/picocolors.browser.js1660197234847202459 0
 121/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@lmdb/lmdb-linux-x64/node.abi108.glibc.node1660197235791218262 0
 96/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/picomatch/index.js1660197234923203733 0
-83/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/tailwind.config.js1660198958613664070 0
+83/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/tailwind.config.js1660232930484101506 0
 109/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/regions/GW.js1660197236143224149 0
 118/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/type-fest/source/fixed-length-array.d.ts1660197235335210631 0
 109/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/regions/TN.js1660197236331227287 0
@@ -1734,7 +1734,7 @@
 89/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/ansi-styles1660197234935203935 1
 115/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/css-tree/lib/syntax/pseudo/matches.js1660197235955221007 0
 92/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/to-regex-range1660197234871202861 1
-91/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/homepage.264bbfd9.svg1660200635398905736 0
+91/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/homepage.264bbfd9.svg1660231602881070105 0
 95/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/picomatch/LICENSE1660197234815201922 0
 99/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/readdirp/package.json1660197234871202861 0
 105/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/utility-types/dist/index.js1660197234939204003 0
@@ -1821,7 +1821,7 @@
 102/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/.bin/node-gyp-build-test1660197236867236237 0
 160/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-fallback/package.json1660197236075223012 0
 125/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.c1660197235807218531 0
-99/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/four-card-feature.59712999.js1660200635402905855 0
+99/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/four-card-feature.59712999.js1660231602881070105 0
 107/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/dom-serializer/lib/index.d.ts1660197235339210699 0
 122/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/utility-types/dist/functional-helpers.js.map1660197235071206213 0
 107/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/css-tree/lib/walker/create.js1660197235595214983 0
@@ -1887,7 +1887,7 @@
 109/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/regions/AI.js1660197235475212975 0
 123/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/transformer-raw/src/RawTransformer.js1660197234991204874 0
 98/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/weak-lru-cache/tests1660197235003205075 1
-87/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/idea.e0aa0ddd.svg1660200635398905736 0
+87/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/idea.e0aa0ddd.svg1660231602881070105 0
 109/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/regions/ET.js1660197236127223882 0
 138/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/core/test/fixtures/config-plugin-not-found/.parcelrc1660197235331210565 0
 123/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/fs-search/fs-search.darwin-arm64.node1660197235339210699 0
@@ -2011,7 +2011,7 @@
 115/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/core/lib/public/Dependency.js1660197235767217861 0
 96/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/htmlnano/README.md1660197235971221275 0
 114/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/watcher/src/PromiseRunner.hh1660197235499213377 0
-80/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/index.html1660201626756585609 0
+80/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/index.html1660233422742860016 0
 106/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/nth-check/lib/esm/compile.js1660197234963204404 0
 109/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/fast-glob/out/providers/sync.js1660197235499213377 0
 97/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/yaml/browser/seq.js1660197235623215451 0
@@ -2399,7 +2399,7 @@
 126/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@swc/helpers/src/_class_apply_descriptor_get.mjs1660197235767217861 0
 100/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/color-convert/route.js1660197235059206013 0
 103/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/supports-color/browser.js1660197234843202392 0
-88/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/index.61d3354a.css1660201626756585609 0
+88/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/index.61d3354a.css1660232930732111030 0
 120/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/transforms2d.js1660197236331227287 0
 95/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/error-ex/index.js1660197234855202593 0
 138/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/060-contribute.md1660197235971221275 0
@@ -2483,7 +2483,7 @@
 112/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/tailwindcss/lib/util/hashConfig.js1660197236019222078 0
 114/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/dnssec.js1660197236111223614 0
 108/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/yaml/dist/Document-9b4560a1.js1660197235039205678 0
-91/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/0-search.42525a20.svg1660200635398905736 0
+91/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/0-search.42525a20.svg1660231602881070105 0
 121/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/server-timing.js1660197236299226753 0
 145/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/index.js1660197235439212372 0
 104/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/nth-check/lib/esm/index.js1660197234991204874 0
@@ -2761,7 +2761,7 @@
 108/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/nth-check/lib/esm/index.js.map1660197235295209962 0
 102/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@mischnic/json-sourcemap1660197234867202794 1
 144/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias1660197236067222880 1
-79/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/src/index.html1660201626576578168 0
+79/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/src/index.html1660233422606854862 0
 102/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/fastq/test/tsconfig.json1660197235051205880 0
 158/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module/package.json1660197236075223012 0
 123/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/caniuse-lite/data/features/canvas-blending.js1660197235791218262 0
@@ -3524,7 +3524,7 @@
 101/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/svgo/plugins/plugins.js1660197235631215585 0
 126/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/postcss-selector-parser/dist/selectors/pseudo.js1660197235471212907 0
 112/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/core/src/serializerCore.js1660197236059222745 0
-103/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/four-card-feature.59712999.js.map1660200635406905974 0
+103/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/dist/four-card-feature.59712999.js.map1660231602905071268 0
 143/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/node-resolver-core/test/fixture/packages/source/source.js1660197236035222345 0
 130/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/node-resolver-core/test/fixture/package.json1660197236103223480 0
 124/home/tchiloross/Desktop/Taro/FRONT-END-MENTOR/four-card-feature/node_modules/@parcel/node-resolver-core/test/fixture/bar.js1660197235015205276 0

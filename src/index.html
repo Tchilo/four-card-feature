@@ -8,16 +8,19 @@
 </head>
 
 <body class="bg-[#FAFAFA] px-8 font-sans text-black tracking-[0.1px] py-20">
-  <header class="mb-[76px]">
-    <p class="font-extralight text-2xl pt-4"> Reliable, efficient delivery </p>
-    <h1 class="font-semibold text-2xl pt-2 leading-9 ">Powered by Technology</h1>
-    <p class="font-normal text-sm w-[311px] pt-4">Our Artificial Intelligence powered tools use millions of project data points to
-      ensure that your project is successful</p>
+  <header class="mb-[76px] flex flex-col   w-full items-center mx-auto">
+    <div>
+      <p class="font-extralight text-2xl pt-4 lg:text-3xl lg:text-center"> Reliable, efficient delivery </p>
+      <h1 class="font-semibold text-2xl pt-2 leading-9 lg:text-3xl lg:text-center">Powered by Technology</h1>
+      <p class="font-normal text-sm w-[311px] pt-4 lg:w-[440px] lg:text-center">Our Artificial Intelligence powered tools use millions of project
+        data points to
+        ensure that your project is successful</p>
+    </div>
   </header>
 
   <main>
-    <ul class="grid gap-8 ">
-      <li class=" bg-white shadow-xl px-7 py-7 border-t-cyan rounded-lg border-t-4 flex flex-col">
+    <ul class="grid gap-[32px] md:grid-cols-2  lg:grid-rows-5 items-center sm:justify-center  place-content-center ">
+      <li class=" bg-white shadow-xl px-7 py-7 border-t-cyan rounded-lg border-t-4 flex flex-col lg:row-start-2 lg:row-end-4 lg:max-w-[350px] ">
         <div>
           <h2 class="font-semibold text-xl">Supervisor</h2>
           <p class="font-normal text-sm w-[254px]">Monitors activity to identify project roadblocks</p>
@@ -27,7 +30,7 @@
         </div>
       </li>
 
-      <li class=" bg-white shadow-xl px-7 py-7 border-t-red rounded-lg border-t-4 flex flex-col">
+      <li class=" bg-white shadow-xl px-7 py-7 border-t-red rounded-lg border-t-4 flex flex-col lg:col-start-2 lg:row-start-1 lg:row-end-3 lg:max-w-[350px]">
         <div>
           <h2 class="font-semibold text-xl">Team Builder</h2>
           <p class="font-normal text-sm w-[254px]">Scans our talent network to create the optimal team for your project
@@ -38,17 +41,17 @@
         </div>
       </li>
 
-      <li class=" bg-white shadow-xl px-7 py-7 border-t-orange rounded-lg border-t-4 flex flex-col">
+      <li class=" bg-white shadow-xl px-7 py-7 border-t-orange rounded-lg border-t-4 flex flex-col lg:col-start-2 lg:row-start-3 lg:row-end-5 lg:max-w-[350px]">
         <div>
           <h2 class="font-semibold text-xl">Karma</h2>
-          <p class="font-normal text-sm w-[254px]">Regularly evaluates our talent to ensure quality</p>
+          <p class="font-normal text-sm w-[254px] lg:w-[241px]">Regularly evaluates our talent to ensure quality</p>
         </div>
         <div class="self-end pt-8">
           <img src="./assets/idea.svg" alt="light-bulb">
         </div>
       </li>
 
-      <li class=" bg-white shadow-xl px-7 py-7 border-t-blue rounded-lg border-t-4 flex flex-col">
+      <li class=" bg-white shadow-xl px-7 py-7 border-t-blue rounded-lg border-t-4 flex flex-col lg:col-span-3 lg:row-start-2 lg:row-end-4 lg:max-w-[350px]">
         <div>
           <h2 class="font-semibold text-xl">Calculator</h2>
           <p class="font-normal text-sm w-[254px]">Uses data from past projects to provide better delivery estimates</p>
