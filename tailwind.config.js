@@ -22,7 +22,6 @@ module.exports = {
       // Complex site-specific row configuration
     },
     gridTemplateColumns: {
-      '3': 'repeat(3, minmax(0, 350px))',
       '2': 'repeat(2, minmax(0, 350px))'
     },
     extend: {},

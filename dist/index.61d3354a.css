@@ -446,16 +446,8 @@ img, video {
     max-width: 350px;
   }
 
-  .lg\:grid-cols-3 {
-    grid-template-columns: repeat(3, minmax(0, 350px));
-  }
-
   .lg\:grid-rows-5 {
     grid-template-rows: repeat(5, minmax(0, 125px));
-  }
-
-  .lg\:justify-end {
-    justify-content: flex-end;
   }
 
   .lg\:text-center {
